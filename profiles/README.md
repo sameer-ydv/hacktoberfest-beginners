@@ -3,24 +3,22 @@
 ### Add your Profile
     Add your profile page to the profiles directory using the given convention.
 
-> # Your Name
-> ### Location
-> Your City/Country
+> # Sameer Yadav
+> ### Surat
+>India
 > ### Academics
-> Your School
+> City Montessori School
 >
 >### Interests
 >
->- Some Things You Like
+>- Born to read
+>- Curious to explore
 >
 >### Development
 >
->- Inventor/ Developer you admire
+>- A.P.J. Abdul Kalam
 >
->### Projects
->
->[My Project](GitHub Link) Short >Description
 >
 >### Profile Link
 >
->[Your Name](GitHub Link)
+>[Sameer Yadav](https://github.com/sameer-ydv)
